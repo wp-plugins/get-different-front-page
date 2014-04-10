@@ -46,7 +46,7 @@
     $front_page_id=get_page_by_path($front_page_slug);
     
     $perma=get_permalink( $front_page_id);
-    if(is_front_page()){ // I still not know why is_home is not working here
+    if(is_front_page() && $front_page_slug!=""){ // I still not know why is_home is not working here
 
 		 wp_redirect( $perma);
 		 exit();
