@@ -3,7 +3,7 @@ Contributors: theode
 Tags: home, page, front, custom
 Requires at least: 3.0
 Tested up to: 3.9
-Stable tag: 0.1
+Stable tag: 0.11
 License: GPLv2 or later
 
 Have different primary menus for different viewers.

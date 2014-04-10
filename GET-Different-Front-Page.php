@@ -3,7 +3,7 @@
     Plugin Name: GET Different Front Page
     Plugin URI: http://www.wp-plugin-dev.com
     Description: Used to have different Homepage by $_GET Parameter
-    Version: 0.1
+    Version: 0.11
     Author: wp-plugin-dev.com
     Author URI: http://www.wp-plugin-dev.com
     
