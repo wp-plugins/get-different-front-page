@@ -2,7 +2,7 @@
 Contributors: theode
 Tags: home, page, front, custom
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.3.1
 Stable tag: 0.11
 License: GPLv2 or later
 
